@@ -1,0 +1,33 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "ReachJS / Express / NodeJS / MongoDB app",
+  "main": "index.js",
+	"engines": {
+		"node": "8.1.1",
+		"npm": "5.0.3"
+	},
+  "scripts": {
+      "start": "node index.js",
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billjenner/ReactApp.git"
+  },
+  "keywords": [
+    "ReachJS",
+    "Express",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Bill Jenner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billjenner/ReactApp/issues"
+  },
+  "homepage": "https://github.com/billjenner/ReactApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
