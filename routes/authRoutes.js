@@ -1,6 +1,6 @@
 const passport = require('passport');
 
-moedule.exports = (app) => {
+module.exports = app => {
     app.get(
         '/auth/google', 
         passport.authenticate('google', {
@@ -14,6 +14,7 @@ moedule.exports = (app) => {
     );
 };
 
-//app.get('/', (req, res) => {
-//    res.send({ hi: 'there'});
-//});
+// app.get('/', (req, res) => {
+//     res.send({ hi: 'there'});
+// });
+																	 
