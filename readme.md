@@ -1,7 +1,7 @@
 # ReactJS Full Stack Web Application
 ### Web Application that profiles advanced features of React, Redux, Express, and Mongo
 ### Route user requests on the front end with React Router and on the backend with Express
-
+![My Best cupcake](./static/App-Icon.png =250x250 "My Tool Type")
 
 ### Functionality Includes:
 * Authentication with Google OAuth
